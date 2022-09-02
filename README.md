@@ -7,7 +7,11 @@ Adapted the page to the following screens:
 • Large screens 2560px
 
 • The design 1600px
+
 • Desktop 1280px
+
 • Small desktop 1024px
+
 • Tablet 640px
+
 • Mobile (> 320px)
