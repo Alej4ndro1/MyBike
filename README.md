@@ -1,6 +1,6 @@
 # Dia landing page - [DEMO LINK](https://alej4ndro1.github.io/MyBike/)
 
-Implemented landing page according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)) - Use BEM and SCSS
+Implemented landing page according to [Figma design](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE) - Use BEM and SCSS
 
 Adapted the page to the following screens:
 
